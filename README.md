@@ -1,10 +1,3 @@
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
 <h2 align="left">Techs</h2>
 
@@ -32,14 +25,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasNagib&radius=16&theme=gotham&area=true&order=5&bg_color=0c1014&point=258e74&area_color=258e74&line=258e74&title_color=258e74&color=99d1ce" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<h2 align="left">Social media</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-###
